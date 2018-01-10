@@ -26,5 +26,5 @@
         <gdppc>13600</gdppc>
         <neighbor name="Costa Rica" direction="W"/>
         <neighbor name="Colombia" direction="E"/>
-	</country>
+    </country>
 </data>
